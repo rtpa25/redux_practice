@@ -10,3 +10,5 @@ const store = configureStore({
 });
 
 export default store;
+
+//DONT RUN SIDE EFFECT CODE IN REDUCERS
